@@ -1,0 +1,308 @@
+POTION
+TRIANGLE
+DRINK
+Drinking different potions enables you to perform great feats. Each
+potion has a certain duration depending on its color and content. You'll
+note an otherworldly glow as long as the magic is in effect. Drink
+with care, they can only be used once!
+@
+TELEPORT
+GATE
+TRANSPORT
+The teleports are a hole in the fabric of reality allowing you
+to traverse large distances in the blink of an eye! Place them
+in convenient locations to further your quest. It takes
+a clever man to free both from their ancient resting places.
+@
+SWORD
+WATER
+DRAGON
+To walk upon the water blue one must drink a potion to
+free the sword; once emptied flagon you may kill that nasty dragon!
+@
+TOME
+BOOK
+WISDOM
+A dark and evil place is home to the fabled tome. Reptilian perils
+and crackling flame stand guard. Return the tome to me; unbounded
+riches and eternal knowledge shall be yours as I unravel the mysteries
+of the universe.
+@
+BAT
+STEAL
+STOLE
+The mad bat is drawn to the feel of magic and will steal any items
+you hold. But his ever-shifting mind soon grows weary of these toys and
+he's prone to dropping them anywhere, so be wary!
+@
+NUMBER
+NUMEROL
+ANCIENT
+I am the last surviving member of a teeming society whose count was once
+5120 strong! But, alas, factional conflicts brought about our demise.
+@
+HOLE
+HOLD
+STORE
+When you find the mystical portable hole, or CARRY ZONE as it was called,
+you will wield great power. This extra-dimensional room allows you to
+divide your actions more rationally by carrying multiple items.
+@
+RICHES
+TREASURE
+REWARD
+Using the mystical prowess my 1024 years of life have given me I will
+decipher the secrets of the HOLYTOME and reveal its knowledge. I recieve
+knowledge whereas you recieve, through me, incomprehensible riches!
+@
+BLOCK
+BLOB
+STONE
+My people left many strange things behind. The quarryfull of stones,
+each which can only be picked up once, were used to control our
+flesh-eating guardian purple blob.
+@
+SECRET
+PASSAGEWAY
+TUNNEL
+The new red sector is built upon the ruins of the ancient grey. A large
+underground region is rumored to exist and the occasional deepearth
+passageway can still be found.
+@
+SNAKE
+RED
+FIRE
+The flame-snake is a heat seeker and will guard his treasure to the death.
+Watch Out! Only with the FireWalk potion shall ye overcome.
+@
+FIELD
+FORCE
+BARRIER
+The Grey Castle was built by my old rival Iggy ad Infinitum to guard a gift
+from the Gods: the Powerful Portable Hole. It is rumoured that the hole
+contains an artifact of great usefulness!
+@
+ACID
+SLIME
+DRIP
+The dripping green acid is all that remains of the numero-chemist Lyso
+12Trips. He reduced himself to this ooze during a recreational
+experiment. The acid is not deadly, but it's effects can be quite
+dis-concerting.
+@
+SPIDER
+FRACTION
+HALF
+The fraction-spiders are actually the magical remainders from ancient
+long division. They bear a nasty grudge against humans for their
+discarding and will exact their revenge from any passers-by, so step with
+care!
+@
+HERMIT
+YOU
+MAN
+I am Chester The1 and I have walked with the Gods. Soon I shall join them in
+the magical land of Dahz. I can not pass from this world to the hereafter
+until I view the HolyTome of Ultimate Wisdom, the Neural Nector of Divinity,
+so that I can know.
+@
+RIVER
+GREEN
+STREAM
+The river divides the land of mortal numbers from the land of the divine.
+This mystical green region was the earthly abode of our lords, Steve and Tom,
+from where they defined the functions of the universe.
+@
+STEVE
+TOM
+GOD
+It is rumored that Steve and Tom created this reality from their separate
+place and that in truth the past we know may not have even been created
+yet in their existence. And from the intermediate realm of Dahz they yield
+the power to DELete our universe.
+@
+CASTLE
+CITADEL
+KEY
+Each Castle was designed for a specific purpose. The Grey and Gold were built
+by the Numerologists long ago to hold important artifacts. The Black castle
+was designed by an evil wizard; it houses the devices and denizens of
+disorder that guard the Tome.
+@
+MYSTERY
+STAR
+???
+The ancient lords used a flying machine to navigate the world they had
+contrived. I believe that when they left this realm to return to Dahz they
+left their machine on this plane. It could lie anywhere.
+@
+SS
+SOFTWARE
+PROGRAM
+*  *  *  SS SOFTWARE 1990  -  Steve Riley & Tommy Burnette  *  *  *
+@
+WINITGINGABELL
+winit
+winit
+YOU'VE FOUND IT!!!
+@
+WAAH
+WAAH
+THIRDWORD
+Tis a fine day for questing, my son. Oh that I could turn over the cup of
+adventure and drink fully of the sweet mead therein. But alas!! My gift runs
+out.
+@
+AAAH
+SCHLONG
+WONKA
+Speak now, I am a busy man. My life is full with the preperations for
+meeting Gods and my numbers need tending.
+@
+Blah
+Blue
+Sputnang
+But of course!
+@
+NNNN
+GGGG
+OOOOH
+The meaning of what you say is clear but clearly you don't seem to mean what
+you say. You see?
+@
+!END!
+    Long ago in the land of
+Dahz lived two powerful,
+powerful men. They had at
+their fingertips the power to
+destroy entire universes no
+matter how great or small.
+Myriad creatures would spring
+to life at Their command and
+act on Their every whim. These
+men were Gods. They were Steve
+and Tom. Our world is one of
+Their creations, our people
+Their minions, our landscapes
+and culture the products of
+Their ever-flowing minds.
+   There was a time when They
+chose to walk among us,
+surveying Their work, 'play-
+testing' our world. A great
+citadel was erected in which
+Steve and Tom lived and worked
+and They left scattered a
+multitude of powerful magical
+items: Teleport devices,
+sorcerous stones, magical
+potions, flying machines and
+more. Our greatest numero-
+philosophers were Their
+lackeys and consorts including
+myself and Iggy ad Infinitum.
+This time marked the golden
+age of our civilization, when
+spectacular shrines were built
+strongholds founded, and the
+boundless numerological
+energies of our people
+channeled into the glorious
+river of numbers... all in the
+names of our Lords.
+   But this age passed, as all
+must, when one day Steve and
+Tom entered into Their citadel
+and were never seen again. As
+one last blessing, though,
+They left behind, in the care
+of Their faithful servants
+Iggy ad Infinitum and myself,
+two gifts. Iggy was charged
+with the care of the Powerful
+Portable Hole, a portal to an
+extra-dimensional world, while
+I was given this, the well
+spring of life, the source of
+all knowledge: the HolyTome of
+Ultimate Wisdom! We accepted
+our gifts graciously, but my
+compatriot felt cheated for I
+had received the more powerful
+prize, and he secretly coveted
+it and schemed.
+   Iggy built a massive grey-
+stone castle, resplendent in
+its spacious courtyard
+inscribed with heroic slogans,
+to house his gift from the
+Gods. He guarded it with a
+steep moat and puzzles of
+logic while I, being of a
+humble nature, elected to keep
+the Tome with me in my hut.
+This angered ad Infinitum for
+he said I insulted Steve and
+Tom with my simple treatment
+of so great a gift and he
+spoke openly of his disdain
+for my behavior. As time went
+on his jealousy grew and he
+began acting against me in
+secret.
+   Iggy had amassed a
+following of numero-
+philosophers sympathetic to
+his cause and together they
+built a new castle, a castle
+of the dark, deep beneath the
+earth. This they guarded with
+fire, snakes and the Temporal
+Maze whose layout defied  all
+natural laws. They lay down a
+pathway that snaked and
+twisted through magically
+darkened caverns and sealed
+off the only entrance at the
+mighty gated mouth of a cave.
+This was to be the eternal
+resting place of the HolyTome
+of Ultimate wisdom; a fit and
+sturdy place, far better
+suited to the task than a hut
+of thatch and mud.
+   One night, while I dreamt,
+Iggy crept into my hut and
+stole the Tome away! With all
+speed he ferreted off his
+prize, deep beneath the earth,
+past all his denizens of the
+dark, to the centerpiece of
+his castle of black: the
+sanctuary and final resting
+place of the HolyTome of
+Ultimate Wisdom. With a cry of
+praise to the Gods Iggy lay
+the grimoire on the altar and
+threw back the cover. He cast
+his gaze upon the open Tome
+and... POOF! He burst into a
+million tiny bits to be cast
+forever onto the winds of
+time. It seems our Lords had
+intended the Tome for my eyes
+only and they took no liking
+to this upstart philosophers
+blasphemous acts of revenge.
+    So now, 1000 years after
+it was rent from my grasp I
+receive my gift again. I must
+thank you, sweet barbarian,
+for now I may die full and
+sated with the knowledge of
+our Lords of Dahz within me.
+And you shant go unrewarded.
+After my passing you may find
+a hearty trove of treasure
+deep beneath
+!END!
